@@ -1,6 +1,6 @@
 [submodule "3rd_term"]
 	path = 3rd_term
-	url = https://github.com/pr1kol2005/algorithms-3-term.git
+	url = https://github.com/pr1kol2/algorithms-3-term.git
 [submodule "4th_term"]
 	path = 4th_term
-	url = https://github.com/pr1kol2005/algorithms-4-term.git
+	url = https://github.com/pr1kol2/algorithms-4-term.git
