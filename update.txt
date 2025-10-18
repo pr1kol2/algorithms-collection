@@ -1,0 +1,10 @@
+# Переключиться на ветку main в каждом сабмодуле
+git submodule foreach 'git checkout main'
+
+# Обновить каждый сабмодуль
+git submodule foreach 'git pull origin main'
+
+# Зафиксировать изменения в родительском репозитории
+git add .
+git commit -m "Update all submodules to latest main"
+git push
